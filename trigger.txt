@@ -1,15 +1,2 @@
-langgenius/dify-api:0.6.11 registry.cn-hangzhou.aliyuncs.com/wang-soft/dify-api:0.6.13
+pgvector/pgvector:pg15 registry.cn-hangzhou.aliyuncs.com/wang-soft/pgvector:pg15
 
-langgenius/dify-web:0.6.11 registry.cn-hangzhou.aliyuncs.com/wang-soft/dify-web:0.6.13
-
-postgres:15-alpine registry.cn-hangzhou.aliyuncs.com/wang-soft/postgres:15-alpine
-
-redis:6-alpine registry.cn-hangzhou.aliyuncs.com/wang-soft/redis:6-alpine
-
-semitechnologies/weaviate:1.19.0 registry.cn-hangzhou.aliyuncs.com/wang-soft/weaviate:1.19.0
-
-langgenius/dify-sandbox:0.2.1 registry.cn-hangzhou.aliyuncs.com/wang-soft/dify-sandbox:0.2.1
-
-ubuntu/squid:latest registry.cn-hangzhou.aliyuncs.com/wang-soft/squid:latest
-
-nginx:latest registry.cn-hangzhou.aliyuncs.com/wang-soft/nginx:latest
